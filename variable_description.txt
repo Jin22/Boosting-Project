@@ -1,0 +1,12 @@
+accommodates: # people the rental place can accommodates
+bathrooms: # bathrooms
+beds: # beds
+price: daily price. The response to predict
+cleaning_fee: one time fee in addition to the price
+guests_included: # guests covered by the price
+extra_people: cost for one extra people beyond the guests_included
+minimum_nights: minimum # of nights to be booked
+review_scores_rating: overall review score, likely the (weighted) sum of review scores from many categories, some of which are not available in this dataset.
+host_day: # days the rental place has been available to book
+
+other variables are self-explanatory
