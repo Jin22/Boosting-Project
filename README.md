@@ -21,3 +21,6 @@ contains the test data
 
 ## final.Rdata 
 contains all data
+
+## mysolution.csv
+contains the predicted data using the XGboost algorithm.
